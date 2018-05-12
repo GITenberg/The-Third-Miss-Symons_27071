@@ -1,0 +1,31 @@
+_repo: The-Third-Miss-Symons_27071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mayor, F. M. (Flora Macdonald)
+    aliases:
+    - Strafford, Mary
+    - Mayor, Flora Macdonald
+    birthdate: 1872
+    deathdate: 1932
+    gutenberg_agent_id: '32438'
+    url: http://www.gutenberg.org/2009/agents/32438
+    wikipedia: http://en.wikipedia.org/wiki/F._M._Mayor
+description: ''
+gutenberg_issued: '2008-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+title: The Third Miss Symons
+url: http://www.gutenberg.org/ebooks/27071
