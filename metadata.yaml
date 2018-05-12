@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32438
     wikipedia: http://en.wikipedia.org/wiki/F._M._Mayor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27071#The-Third-Miss-Symons
 gutenberg_issued: '2008-10-28'
 gutenberg_type: Text
 identifiers:
